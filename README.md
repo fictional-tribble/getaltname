@@ -55,7 +55,7 @@ In this case the tool give you sub-domains that you probably didn't find with a 
 
 # Demo
 *Disclaimer: The tool was renamed from getaltname to GSAN.*
-[![asciicast](https://asciinema.org/a/bYYnK76AQJZFP9hj43e3CUaH5.png)](https://asciinema.org/a/bYYnK76AQJZFP9hj43e3CUaH5)
+[![asciicast](https://asciinema.org/a/bYYnK76AQJZFP9hj43e3CUaH5.png)](https://asciinema.org/a/bYYnK76AQJZFP9hj43e3CUaH5) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/getaltname.svg)](https://www.staging.guardrails.io)
 
 # Installation
 ```bash
